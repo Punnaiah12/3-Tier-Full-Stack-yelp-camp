@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: shaikmustafa/finalcamp:v1
+          image: punnaiah12/angajala:campaign
           ports:
             - containerPort: 3000
 
